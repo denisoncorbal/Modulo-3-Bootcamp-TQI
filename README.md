@@ -1,5 +1,6 @@
 # Adições
 Foram adicionados no projeto um temporizados, níveis de dificuldade e um verificador de vitória.
+O jogo está disponível para acesso em https://denisoncorbal.github.io/Modulo-3-Bootcamp-TQI/
 
 # Oi, tudo bem? Chegou aqui através do curso, certo? 🙃
 
