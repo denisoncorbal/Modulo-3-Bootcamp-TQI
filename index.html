@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+﻿<!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -6,8 +6,10 @@
     <link rel="stylesheet" href="./style.css">
     <title>Jogo da memória</title>
 </head>
-<body>
-    <main class="memory-game">
+<body onload='mode()'>
+    <div id='mode'></div>
+    <h1 id='timer'></h1>
+    <main class="memory-game">      
         <div class="card" data-card="bowser">
             <img class="card-front" src="./img/bowser.jpg" alt="Face da carta">
             <img class="card-back" src="./img/box.png" alt="Verso da carta">
